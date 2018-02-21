@@ -11,6 +11,9 @@ jsconfig.json
 # .env
 .env
 
+# .idea
+.idea
+
 ### Git ###
 *.orig
 
